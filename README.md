@@ -83,8 +83,6 @@ Daa project/
 │
 ├── diagrams/                  # System architecture, flowcharts, ER diagrams
 ├── screenshots/               # High-resolution application screenshots
-├── QuestForge_Final_Project_Report.pdf  # Comprehensive academic project report
-├── QuestForge_Final_Project_Report.docx # Formatted Word report
 ├── .gitignore                 # Excludes venv, node_modules, .env, and local DB
 └── README.md                  # Project documentation
 ```
@@ -161,13 +159,6 @@ Daa project/
 
 ---
 
-### One-Click Launch (Windows)
-On Windows, you can also run the root PowerShell script:
-```powershell
-.\start.ps1
-```
-
----
 
 ## License
 Academic coursework project under MIT License.
