@@ -80,9 +80,6 @@ Daa project/
 │   │   └── types/             # TypeScript data contracts
 │   ├── package.json           # Frontend package manifests
 │   └── vite.config.ts         # Vite build configuration
-│
-├── diagrams/                  # System architecture, flowcharts, ER diagrams
-├── screenshots/               # High-resolution application screenshots
 ├── .gitignore                 # Excludes venv, node_modules, .env, and local DB
 └── README.md                  # Project documentation
 ```
